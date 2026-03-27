@@ -20,7 +20,7 @@ Only simulation codes are provided. Published articles are linked below as refer
 
 3. **Modular Polarization-Engineered Optical Phased Arrays for Optical Wireless Indoor Networks**  
    *IEEE Open Journal of Communication Society, 2025*  
-   🔗 under review
+   🔗 https://ieeexplore.ieee.org/document/11456074
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
