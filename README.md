@@ -10,7 +10,7 @@ Only simulation codes are provided. Published articles are linked below as refer
 
 #Journal Publications
 
-1. **Advanced Scalable Multi-Beam Focusing for Indoor Optical Wireless Networks with IR Radiative Clusters**  
+1. **Improving Transmission Efficiency in Optical Wireless Networks with IR Radiative Element Clusters and Phased Array Apertures**  
    *Journal of Lightwave Technology, 2024*
    🔗 https://ieeexplore.ieee.org/document/10681515
 
